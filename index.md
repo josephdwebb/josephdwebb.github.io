@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hi There!
+cover: true
 sitemap: false
 ---
 

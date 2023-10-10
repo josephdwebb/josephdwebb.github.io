@@ -306,6 +306,10 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
+  research:
+    permalink:         /research/:path/
+    output:            true
+
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
