@@ -108,22 +108,24 @@ publications:
 #    awarder: "Techcrunch"
 #    summary: "There is no spoon."
 
+
 skills:
   - name: "Emergency Medicine"
     levels: "Master"
     keywords:
-      - "Pre-hospital Care"
+      - "Pre-Hospital Care"
       - "EMT"
-      
+
   - name: "Laboratory Technnique"
-    level: "Advanced"
+    level: "Master"
     keywords:
-      - "Insect Identification & Taxidermy"
-      - "Molecular Diagnostics with PCR"
-      - "Quantitiative Chemical Analysis"
+      - "Identification"
+      - "Chemical Analysis"
+      - "Taxidermy"
+      - "PCR"
 
   - name: "Programming"
-    level: "Advanced"
+    level: "Intermediate"
     keywords:
       - "R"
       - "JavaScript"
@@ -133,14 +135,14 @@ languages:
     fluency: "Native speaker"
 
   - language: "Spanish"
-    fluency: "Conversational"
+    fluency: "Intermediate"
 
 interests:
   - name: "Wildlife"
     keywords:
       - "Comparative Physiology"
-      - "Vector-borne Diseases"
       - "Evolution"
+      - "Vector-borne Diseases"
       - "Botany"
 
   - name: "Piano"
