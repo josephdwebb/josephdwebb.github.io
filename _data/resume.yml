@@ -9,8 +9,8 @@ basics:
   phone: "(603) 854-2092"
   website: "https://www.josephdwebb.com"
   summary: >
-    Joseph D. Webb, a biology enthusiast and undergraduate researcher from the University of Vermont, 
-    combines a strong interest in scientific exploration and a dedicated commitment to learning.
+    Joseph D. Webb, a biology enthusiast and undergraduate researcher from the University of Vermont, who
+    combines a strong interest in scientific exploration with a dedicated commitment to learning.
     With a love for the outdoors, Joe conducted hands-on research on tick-borne pathogens and their connection to weather patterns.
     Beyond the lab, he thrives in dynamic roles, serving as an EMT for his community and volunteering as a Youth Restorative Justice Advocate. 
     Joseph's diverse interests span from the intricacies of biology to the art of communication, making him a versatile and dedicated individual poised for impactful contributions.
@@ -37,9 +37,11 @@ work:
     summary: >
       As an ambitious member of the UVM Honors College, Joe is driven by an unwavering commitment to academic excellence. Pursuing a Bachelor of Arts in Biology with a minor in Chemistry, his academic journey has been characterized by a passionate exploration of the natural world. Currently, Joe is deeply engrossed in the intricate interplay between weather conditions and disease pathogen prevalence within tick populations.
     highlights:
-      - "Provides guidance and support to newly accepted students as an Honors College Peer Mentor."
-      - "Brings a passion for communication as a Teaching Assistant for Communication Methods."
       - "Distinguished as an Honors Undergraduate Researcher at the UVM Wildlife Pathogens Lab."
+      - "Brings a passion for communication as a Teaching Assistant for Communication Methods."
+      - "Provides guidance and support to newly accepted students as an Honors College Peer Mentor."
+      
+      
 
   - company: "Canobie Lake Park"
     position: "Emergency Medical Technican"
