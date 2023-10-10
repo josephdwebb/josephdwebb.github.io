@@ -25,8 +25,7 @@ title:                 Joe Webb
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  A boutique website to capture and display my work.
 
 # A shorter description for the sidebar.
 tagline:               Biologist, Researcher, Educator
@@ -92,7 +91,7 @@ paginate_path:         /blog/:num/
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
+accent_image:          /assets/img/blog/caleb-george.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
