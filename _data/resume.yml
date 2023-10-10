@@ -35,7 +35,7 @@ work:
     startDate: "2020-09-01"
     endDate: ""
     summary: >
-      As an ambitious member of the UVM Honors College, Joe is driven by an unwavering commitment to academic excellence. Pursuing a Bachelor of Arts in Biology with a minor in Chemistry, Joseph's academic journey has been characterized by a passionate exploration of the natural world. Currently, he is deeply engrossed in pioneering research, delving into the intricate interplay between weather conditions and disease pathogen prevalence within tick populations.
+      As an ambitious member of the UVM Honors College, Joe is driven by an unwavering commitment to academic excellence. Pursuing a Bachelor of Arts in Biology with a minor in Chemistry, his academic journey has been characterized by a passionate exploration of the natural world. Currently, Joe is deeply engrossed in the intricate interplay between weather conditions and disease pathogen prevalence within tick populations.
     highlights:
       - "Provides guidance and support to newly accepted students as an Honors College Peer Mentor."
       - "Brings a passion for communication as a Teaching Assistant for Communication Methods."
@@ -47,10 +47,10 @@ work:
     startDate: "2021-05-01"
     endDate: "2023-06-15"
     summary: >
-      During my tenure as an Emergency Medical Technician at Canobie Lake Park, I played a pivotal role in ensuring the safety and well-being of park visitors. My responsibilities included providing immediate medical assistance and coordinating emergency responses in high-pressure situations.
+      The primary medical respoonse team at Canobie Lake Park, playing a pivotal role in ensuring the safety and well-being of park visitors. Responsibilities included providing immediate medical assistance and coordinating emergency responses in high-pressure situations.
     highlights:
+      - "Assumed a leadership role in orienting and training new members to the medical team."
       - "Recognized for outstanding performance and dedication as Team Member of the Month."
-      - "Assumed a leadership role in orienting and training new team members, contributing to their successful integration into the medical team."
 
 volunteer:
   - organization: "Burlington Community Justice Center"
@@ -68,15 +68,13 @@ volunteer:
     startDate: "2022-04-01"
     endDate: ""
     summary: "
-      Occupying and attending to UVM's Benedict House and assisting with students seeking professorial guidance in the Department of Sociology."
+      Attending to UVM's Benedict House and assisting with students seeking professorial guidance."
   
-  - organization: "Physics Department"
+  - organization: "UVM Physics Department"
     position: "Student Tutor"
     startDate: "2022-08-01"
     endDate: "2023-05-01"
     summary: "Helping students understand and excel in physics topics ranging from kinetics to relativity."
-    highlights:
-      - "Created Professor sponsored `cheat sheats` for exam preparation."
 
   - organization: "UVM Honors College"
     position: "Peer Mentor"
