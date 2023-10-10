@@ -111,7 +111,7 @@ publications:
 
 skills:
   - name: "Emergency Medicine"
-    levels: "Master"
+    level: "Master"
     keywords:
       - "Pre-Hospital Care"
       - "EMT"
@@ -120,7 +120,6 @@ skills:
     level: "Master"
     keywords:
       - "Identification"
-      - "Chemical Analysis"
       - "Taxidermy"
       - "PCR"
 
@@ -129,13 +128,15 @@ skills:
     keywords:
       - "R"
       - "JavaScript"
+      - "Firebase"
+      - "Discord"
 
 languages:
   - language: "English"
     fluency: "Native speaker"
 
   - language: "Spanish"
-    fluency: "Intermediate"
+    fluency: "Limited working proficiency"
 
 interests:
   - name: "Wildlife"
