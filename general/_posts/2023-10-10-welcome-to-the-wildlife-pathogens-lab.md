@@ -8,7 +8,7 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  Becoming an Honors Undergraduate Researcher at a UVM Lab.
+  Becoming an Honors Undergraduate Researcher at the UVM Wildlife Pathogens Lab.
 invert_sidebar: false
 ---
 
@@ -35,9 +35,9 @@ The Wildlife Pathogen Lab aims to contribute valuable insights into the dynamic 
 | Dr. Ellen Martinsen | Ph.D.                | Host-parasite ecology and evolution, wildlife disease, avian biology, and conservation.                    |
 | Erika Griggs        | Ph.D. Student        | Impact of environmental contaminants and climate change on infection dynamics in birds.                    |
 | Lauren Berkley      | MS Student           | Understand disease-related and climate change threats to vulnerable species.                               |
-| Anna Hinkel         | Undergraduate        | Investigating [reservoir hosts](#definitions) of a variety of tick-borne pathogens.                       |
-| Olivia Biasetti     | Undergraduate        | Environmental variables and infection levels of *anaplasmosis* in [reservoir hosts](#definitions).        |
 | Joe Webb            | Honors Undergraduate | Modeling disease [pathogen prevalence](#definitions) in tick populations as a variable to climate change. |
+| Olivia Biasetti     | Undergraduate        | Environmental variables and infection levels of *anaplasmosis* in [reservoir hosts](#definitions).        |
+| Anna Hinkel         | Undergraduate        | Investigating [reservoir hosts](#definitions) of a variety of tick-borne pathogens.                       |
 {:.scroll-table}
 
 ## My Goals in Lab
