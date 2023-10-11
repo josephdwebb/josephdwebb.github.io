@@ -29,14 +29,14 @@ The Wildlife Pathogen Lab aims to contribute valuable insights into the dynamic 
 
 ## Meet the Team
 **The Wildlife Pathogen's Lab Team is composed of:**
-| **Member**              | **Education Levels**     | **Interest**                                                                                                |
-|:------------------------|:-------------------------|:------------------------------------------------------------------------------------------------------------|
-| Dr. Ellen Martinsen     | Ph.D.                    | Host-parasite ecology and evolution, wildlife disease, avian biology, and conservation.                     |
-| Erika Griggs            | Ph.D. Student            | Impact of environmental contaminants and climate change on infection dynamics in birds.                     |
-| Lauren Berkley          | MS Student               | Understand disease-related and climate change threats to vulnerable species.                                |
-| Anna Hinkel             | Undergraduate            | Investigating [reservoir hosts](#Definitions) of a variety of tick-borne pathogens.                         |
-| Olivia Biasetti         | Undergraduate            | Environmental variables and infection levels of *anaplasmosis* in [reservoir hosts](#Definitions).          |
-| Joe Webb                | Honors Undergraduate     | Modeling disease [pathogen prevalence](#Definitions) in tick populations as a variable to climate change.   | 
+|      **Member**     | **Education Levels** |                                                **Interest**                                                |
+|:-------------------:|:--------------------:|:----------------------------------------------------------------------------------------------------------:|
+| Dr. Ellen Martinsen | Ph.D.                | Host-parasite ecology and evolution, wildlife disease, avian biology, and conservation.                    |
+| Erika Griggs        | Ph.D. Student        | Impact of environmental contaminants and climate change on infection dynamics in birds.                    |
+| Lauren Berkley      | MS Student           | Understand disease-related and climate change threats to vulnerable species.                               |
+| Anna Hinkel         | Undergraduate        | Investigating [reservoir hosts](##Definitions) of a variety of tick-borne pathogens.                       |
+| Olivia Biasetti     | Undergraduate        | Environmental variables and infection levels of *anaplasmosis* in [reservoir hosts](##Definitions).        |
+| Joe Webb            | Honors Undergraduate | Modeling disease [pathogen prevalence](##Definitions) in tick populations as a variable to climate change. |
 
 ## My Goals in Lab
 As an Honors Undergraduate Researcher at the University of Vermont Honors College, I have devoted my last year of my undergraduate education to the research of tick pathogen pravalence. My tentative goals over the 2023-2024 year are as follows:
