@@ -41,15 +41,18 @@ The Wildlife Pathogen Lab aims to contribute valuable insights into the dynamic 
 {:.scroll-table}
 
 ## My Goals in Lab
-As an Honors Undergraduate Researcher at the University of Vermont Honors College, I have devoted my last year of my undergraduate education to the research of tick pathogen pravalence. My tentative goals over the 2023-2024 year are as follows:
+As an Honors Undergraduate Researcher at the University of Vermont Honors College, I have devoted my last year of my undergraduate education to the research of tick pathogen pravalence. My tentative goals over the 2023-2024 academic year are as follows:
 
-1.  Systematically Collect ~500 Black-Legged Ticks from New England Forests.
-1.  Extract and Perform PCR Analysis on All Samples.
+1.  Analyze New England Forest Temperature & Precipitation to PCA Linear Regressions
+1.  Systematically Collect ~500 Black-Legged Ticks from Targetted Sites at Quarterile Ranges.
+1.  Extract and Perform PCR Analysis on All Samples
 1.  Measure Prevalence of *Borrelia burgdorferi*, *Babesia microti*, and *Anaplasma phagocytophilum* at Sites.
 1.  Create Yearly Model That Relates Pathogen Prevalence to Climate Change Predictions.
 
+*PCR Extractions will be stored in the University of Vermont collection of biological research for future research.*
+
 ## Read the Most Recent Lab News
-Interested to see what else we are up to? The official lab website can be found at https://wildlifepathogens.org/.
+Interested to see what else we are up to? The official lab website can be found [here](https://wildlifepathogens.org/).
 
 ## Definitions
 Reservoir Hosts
