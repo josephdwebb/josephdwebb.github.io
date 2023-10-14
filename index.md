@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: welcome
 title: Hi There!
 cover: true
 sitemap: false
