@@ -39,7 +39,7 @@ work:
     highlights:
       - "Distinguished as an Honors Undergraduate Researcher at the UVM Wildlife Pathogens Lab."
       - "Brings a passion for communication as a Teaching Assistant for Communication Methods."
-      - "Provides guidance and support to newly accepted students as an Honors College Peer Mentor."
+      - "Provided guidance and support to newly accepted students as an Honors College Peer Mentor."
       
       
 
@@ -120,7 +120,7 @@ skills:
     level: "Master"
     keywords:
       - "Identification"
-      - "Taxidermy"
+      - "Taxonomy"
       - "PCR"
 
   - name: "Programming"
@@ -128,8 +128,6 @@ skills:
     keywords:
       - "R"
       - "JavaScript"
-      - "Firebase"
-      - "Discord"
 
 languages:
   - language: "English"
