@@ -4,22 +4,21 @@ title: 'WoodlandWeather'
 caption: An open source geospatial tool matching field research sites to NCEI weather reports.
 description: >
   My goals, progress, and results while constructing an intuitive and accessible software to complement biological field research.
-date: 10 Oct 2023
+date: '01-10-2023'
 image: 
-  path: /assets/img/projects/templogo.jpg
+  path: /assets/img/projects/hydejack-site.jpg
   srcset: 
-    1920w: /assets/img/projects/templogo.jpg
-    960w:  /assets/img/projects/templogo.jpg
-    480w:  /assets/img/projects/templogo.jpg
+    1920w: /assets/img/projects/hydejack-site.jpg
+    960w:  /assets/img/projects/hydejack-site@0,5x.jpg
+    480w:  /assets/img/projects/hydejack-site@0,25x.jpg
 links:
   - title: Link
     url: https://github.com/josephdwebb/woodlandweather 
- accent_color: '#4fb1ba'
- accent_image:
-   background: '#193747'
- theme_color: '#193747'
 sitemap: false
 ---
+
+
+
 
 Introducing **WoodlandWeather**, a specialized open-source software tailored to support field biologists and ecologists in their research endeavors. This tool is crafted with the goal of fostering a deeper understanding of the intricate connections between forest ecosystems and the dynamic atmospheric conditions that surround them. Users can easily input the geographic coordinates of their research sites, allowing WoodlandWeather to seamlessly access and retrieve the most recent and comprehensive climate data from the National Center of Environmental Information (NCEI), facilitating an in-depth exploration of the climate and weather conditions within their targetted site.
 
@@ -64,6 +63,7 @@ The `woodlandweather` function is used to retrieve weather data for a specified 
 | m                 | Month (MM) for data retrieval  |
 | y                 | Year (YYYY) for data retrieval |
 | n                 | Number of stations to retrieve |
+{:.scroll-table}
 
 **Example**:
 ```R

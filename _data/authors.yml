@@ -25,10 +25,11 @@ author1:
   # Comment/uncommet to show/hide
   # Rearrange to change the order in which they appear
   social:
-    spotify:         user/ayw3alm1igmo4lw1hc9kacrvr
+    linkedin:        <firstname-lastname-string>
     github:          josephdwebb
     email:           Josephwebb4@hotmail.com
     download:        <url>
+    # spotify:         user/ayw3alm1igmo4lw1hc9kacrvr
     # twitter:         <username>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -57,7 +58,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
