@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: projects
 title: Research
 show_collection: research
 description: >
