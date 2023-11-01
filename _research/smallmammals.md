@@ -21,4 +21,5 @@ theme_color: '#193747'
 sitemap: false
 ---
 # Demographic Shifts and Ecological Interactions: Small Mammals and Invertebrates Co-Occurrence and Avoidance in a Changing Vermont'
+Include graphics. 
 Experimentatioon with a new menu section.
