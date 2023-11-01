@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: project
 title: 'WoodlandWeather'
 caption: An open source geospatial tool matching field research sites to NCEI weather reports.
 description: >
