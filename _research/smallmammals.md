@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: research
 title: 'Ecological Dynamics of Small Mammals and Invertebrates in Vermont '
 caption: Exploring small mammal and invertebrate interactions in abandoned Vermont agricultural landscapes. Implications for redevelopment in the face of agricultural transformations.
 description: >

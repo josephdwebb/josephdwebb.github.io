@@ -4,7 +4,7 @@
 basics:
   name: "Joseph Webb"
   label: "Honors Undergraduate Researcher"
-  picture: "https://via.placeholder.com/240x240"
+  picture: assets/img/profile_256.jpg
   email: "Josephwebb4@hotmail.com"
   phone: "(603) 854-2092"
   website: "https://www.josephdwebb.com"
@@ -21,13 +21,13 @@ basics:
   #  city: "San Francisco"
   #  countryCode: "US"
   #  region: "California"
-  # profiles:
+   profiles:
   #  - network: "Twitter"
   #    username: "RHendricksCEO"
   #    url: ""
-  #  - network: "LinkedIn"
-  #    username: "Richard Hendricks"
-  #    url: ""
+    - network: "LinkedIn"
+      username: "Joseph Webb"
+      url: "https://www.linkedin.com/in/joseph-webb-134821299/"
 work:
   - company: "University of Vermont"
     position: "Undergraduate Student"
