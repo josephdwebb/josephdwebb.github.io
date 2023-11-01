@@ -1,10 +1,10 @@
 ---
 layout: project
-title: 'Demographic Shifts and Ecological Interactions: Small Mammals and Invertebrates Co-Occurrence and Avoidance in a Changing Vermont'
-caption: Investigating small mammal and invertebrate interactions in deserted Vermont agricultural areas for potential redevelopment amid the changing agricultural landscape.
+title: 'Ecological Dynamics of Small Mammals and Invertebrates in Vermont '
+caption: Exploring small mammal and invertebrate interactions in abandoned Vermont agricultural landscapes. Implications for redevelopment in the face of agricultural transformations.
 description: >
   Summarizing my work in Dr. Nicholas Gotelli's ecological lab.
-date: 10 Oct 2023
+date: 10 Oct 2022
 image: 
   path: /assets/img/research/nenhc.jpg
 #  srcset: 
@@ -20,5 +20,5 @@ accent_image:
 theme_color: '#193747'
 sitemap: false
 ---
-
+# Demographic Shifts and Ecological Interactions: Small Mammals and Invertebrates Co-Occurrence and Avoidance in a Changing Vermont'
 Experimentatioon with a new menu section.
