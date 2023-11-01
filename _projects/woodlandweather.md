@@ -63,7 +63,7 @@ The `woodlandweather` function is used to retrieve weather data for a specified 
 | m                 | Month (MM) for data retrieval  |
 | y                 | Year (YYYY) for data retrieval |
 | n                 | Number of stations to retrieve |
-{:.scroll-table}
+{:.scroll-table-small}
 
 **Example**:
 ```R

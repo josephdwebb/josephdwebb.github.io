@@ -21,7 +21,7 @@ Welcome to the Wildlife Pathogens Lab
 
 
 ## The Lab's Mission Statement
-The Wildlife Pathogens Lab, led by Ellen Martinsen, is dedicated to the exploration and understanding of wildlife pathogens and their impact on ecosystems. Through a multidisciplinary approach that combines fieldwork and laboratory research, its members engage in pathogen discovery, shedding light on novel species and genera in wild vertebrate and invertebrate vector hosts worldwide. 
+The Wildlife Pathogens Lab, led by Dr. Ellen Martinsen, is dedicated to the exploration and understanding of wildlife pathogens and their impact on ecosystems. Through a multidisciplinary approach that combines fieldwork and laboratory research, its members engage in pathogen discovery, shedding light on novel species and genera in wild vertebrate and invertebrate vector hosts worldwide. 
 
 Their mission involves unravelling the intricacies of pathogen diversity, tracking their evolutionary history, and investigating host switches into new vertebrate and invertebrate vector hosts. Additionally, they are committed to studying specific cases, such as Common Loon Malaria, contaminant-pathogen interactions, cervid pathogens, and the impact of invasive tick species on infectious diseases. 
 
@@ -41,7 +41,7 @@ The Wildlife Pathogen Lab aims to contribute valuable insights into the dynamic 
 {:.scroll-table}
 
 ## My Goals in Lab
-As an Honors Undergraduate Researcher at the University of Vermont Honors College, I have devoted my last year of my undergraduate education to the research of tick pathogen pravalence. My tentative goals over the 2023-2024 academic year are as follows:
+As an Honors Undergraduate Researcher at the University of Vermont Honors College, I have devoted the last year of my undergraduate education to the research of tick pathogen prevalence. My tentative goals over the 2023-2024 academic year are as follows:
 
 1.  Analyze New England Forest Temperature & Precipitation to PCA Linear Regressions
 1.  Systematically Collect ~500 Black-Legged Ticks from Targetted Sites at Quarterile Ranges.
