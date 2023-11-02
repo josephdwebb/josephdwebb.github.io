@@ -55,6 +55,7 @@ This step will begin the data download process. Please be aware that instalation
 
 ## Using WoodlandWeather
 The `woodlandweather` function is used to retrieve weather data for a specified site. The required arguments are:
+
 | Required Argument | Description                    |
 |-------------------|--------------------------------|
 | s                 | Site name                      |
