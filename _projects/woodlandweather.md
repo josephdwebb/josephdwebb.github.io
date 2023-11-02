@@ -6,13 +6,13 @@ description: >
   My goals, progress, and results while constructing an intuitive and accessible software to complement biological field research.
 date: '01-10-2023'
 image: 
-  path: /assets/img/projects/hydejack-site.jpg
+  path: assets/img/projects/WoodlandWeather.png
   srcset: 
-    1920w: /assets/img/projects/hydejack-site.jpg
-    960w:  /assets/img/projects/hydejack-site@0,5x.jpg
-    480w:  /assets/img/projects/hydejack-site@0,25x.jpg
+    1920w: /assets/img/projects/WoodlandWeather.png
+    960w:  /assets/img/projects/WoodlandWeather_960.png
+    480w:  /assets/img/projects/WoodlandWeather_480.png
 links:
-  - title: Link
+  - title: GitHub
     url: https://github.com/josephdwebb/woodlandweather 
 sitemap: false
 ---
