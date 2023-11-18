@@ -8,7 +8,7 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  My work on various field work expeditions.
+  The Wildlife Pathogen's Lab Surveying along Winooski River, Burlington, VT.
 invert_sidebar: false
 ---
 
@@ -24,48 +24,31 @@ As an Honors Undergraduate Researcher at the University of Vermont Wildlife Path
 
 
 ## Northern Vermont
-```yml
-image:
-  path:    /assets/img/blog/fieldnotes2.png
-  #srcset:
-  #  1920w: /assets/img/projects/hyde-v2.jpg
-  #  960w:  /assets/img/projects/hyde-v2@0,5x.jpg
-  #  480w:  /assets/img/projects/hyde-v2@0,25x.jpg
-```
+![FieldNotes2](/assets/img/blog/fieldnotes2.png "A picture of myself surveying along a trail head by Saint Michaels College."){:.lead width="800" height="100"}
+A picture of myself surveying along a trail head by Saint Michaels College.
+{:.figure}
+
 Being a part of the survey team was an enriching experience that took me to various locations in Northern Vermont. From traversing agricultural farmland to surveying along river-adjacent trails and exploring secluded snowmobile trails, each trip brought forth unique insights. Together, we collected over 200 ticks in the field, and subsequently performed a PCR analysis of all specimen returned to the lab. The process, while rigorous, underscored the significance of our work and the dedication of our team in understanding the dynamics of tick populations in these diverse environments.
 
 ## Northern New Hampshire
-```yml
-image:
-  path:    /assets/img/blog/fieldnotes3.png
-  #srcset:
-  #  1920w: /assets/img/projects/hyde-v2.jpg
-  #  960w:  /assets/img/projects/hyde-v2@0,5x.jpg
-  #  480w:  /assets/img/projects/hyde-v2@0,25x.jpg
-```
+![FieldNotes3](/assets/img/blog/fieldnotes3.png "A beautiful picture of a river in Frankonia National Park, I captured during my drive north."){:.lead width="800" height="100"}
+A beautiful picture of a river in Frankonia National Park, I captured during my drive north.
+{:.figure}
 
 Embarking on survey expeditions around the White Mountains and the base of Mount Washington, I focused on exploring less dense forests in search of [*Ixodes scapularis*](#definitions). These excursions offered a unique perspective on tick prevalence in varying environments, contributing valuable data to our ongoing research.
 
 ## Sourthern New Hampshire
-```yml
-image:
-  path:    /assets/img/blog/fieldnotes4.png
-  #srcset:
-  #  1920w: /assets/img/projects/hyde-v2.jpg
-  #  960w:  /assets/img/projects/hyde-v2@0,5x.jpg
-  #  480w:  /assets/img/projects/hyde-v2@0,25x.jpg
-```
+![FieldNotes4](/assets/img/blog/fieldnotes4.png "A picture of myself checking my drag cloth for ticks."){:.lead width="800" height="100"}
+A picture of myself checking my drag cloth for ticks.
+{:.figure}
+
 Serving as the sole surveyor for sites in Southern New Hampshire, I gathered  over 500 ticks — both [*Ixodes scapularis*](#definitions) and [*Dermacentor variabilis*](#definitions). These specimens have been diligently returned to the lab for in-depth analysis.
 
 ## Northern Massachusetts
-```yml
-image:
-  path:    /assets/img/blog/fieldnotes5.png
-  #srcset:
-  #  1920w: /assets/img/projects/hyde-v2.jpg
-  #  960w:  /assets/img/projects/hyde-v2@0,5x.jpg
-  #  480w:  /assets/img/projects/hyde-v2@0,25x.jpg
-```
+![FieldNotes5](/assets/img/blog/fieldnotes2.png "A *Dermacentor variabilis* (dog tick) caught questing for passing animals."){:.lead width="800" height="100"}
+A *Dermacentor variabilis* (dog tick) caught questing for passing animals.
+{:.figure}
+
 As part of my survey of massachusetts, I collected 50 [*Ixodes scapularis*](#definitions) and near 100 [*Dermacentor variabilis*](#definitions) (shown above), but I also found a [*Amblyomma americanum*](#definitions), which was the highlight of my trip.
 
 ## Definitions

@@ -41,6 +41,8 @@ The Wildlife Pathogen Lab aims to contribute valuable insights into the dynamic 
 {:.scroll-table}
 
 ## My Goals in Lab
+![Wildlife Pathogens Lab](/assets/img/blog/lab.png "A picture of the Wildlife Pathogens Lab.")
+
 As an Honors Undergraduate Researcher at the University of Vermont Honors College, I have devoted the last year of my undergraduate education to the research of tick pathogen prevalence. My tentative goals over the 2023-2024 academic year are as follows:
 
 1.  Analyze New England Forest Temperature & Precipitation to PCA Linear Regressions
