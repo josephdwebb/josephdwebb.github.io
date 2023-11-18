@@ -21,6 +21,10 @@ Welcome to the Wildlife Pathogens Lab
 
 
 ## The Lab's Mission Statement
+![Wildlife Pathogens Lab](/assets/img/blog/lab.png "A picture of the Wildlife Pathogens Lab."){:.lead width="800"}
+A picture of the Wildlife Pathogens Lab.
+{:.figure}
+
 The Wildlife Pathogens Lab, led by Dr. Ellen Martinsen, is dedicated to the exploration and understanding of wildlife pathogens and their impact on ecosystems. Through a multidisciplinary approach that combines fieldwork and laboratory research, its members engage in pathogen discovery, shedding light on novel species and genera in wild vertebrate and invertebrate vector hosts worldwide. 
 
 Their mission involves unravelling the intricacies of pathogen diversity, tracking their evolutionary history, and investigating host switches into new vertebrate and invertebrate vector hosts. Additionally, they are committed to studying specific cases, such as Common Loon Malaria, contaminant-pathogen interactions, cervid pathogens, and the impact of invasive tick species on infectious diseases. 
@@ -41,7 +45,6 @@ The Wildlife Pathogen Lab aims to contribute valuable insights into the dynamic 
 {:.scroll-table}
 
 ## My Goals in Lab
-![Wildlife Pathogens Lab](/assets/img/blog/lab.png "A picture of the Wildlife Pathogens Lab.")
 
 As an Honors Undergraduate Researcher at the University of Vermont Honors College, I have devoted the last year of my undergraduate education to the research of tick pathogen prevalence. My tentative goals over the 2023-2024 academic year are as follows:
 
@@ -51,10 +54,14 @@ As an Honors Undergraduate Researcher at the University of Vermont Honors Colleg
 1.  Measure Prevalence of *Borrelia burgdorferi*, *Babesia microti*, and *Anaplasma phagocytophilum* at Sites.
 1.  Create Yearly Model That Relates Pathogen Prevalence to Climate Change Predictions.
 
-*PCR Extractions will be stored in the University of Vermont collection of biological research for future research.*
+**NOTE**: PCR Extractions will be stored in the University of Vermont collection of biological research for future research.
+
+* * * 
 
 ## Read the Most Recent Lab News
-Interested to see what else we are up to? The official lab website can be found [here](https://wildlifepathogens.org/).
+**NOTE**: Interested to see what else we are up to? The official lab website can be found [here](https://wildlifepathogens.org/).
+
+* * *
 
 ## Definitions
 Reservoir Hosts
