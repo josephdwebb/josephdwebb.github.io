@@ -17,10 +17,7 @@ links:
 sitemap: false
 ---
 
-
-
-
-Introducing **WoodlandWeather**, a specialized open-source software tailored to support field biologists and ecologists in their research endeavors. This tool is crafted with the goal of fostering a deeper understanding of the intricate connections between forest ecosystems and the dynamic atmospheric conditions that surround them. Users can easily input the geographic coordinates of their research sites, allowing WoodlandWeather to seamlessly access and retrieve the most recent and comprehensive climate data from the National Center of Environmental Information (NCEI), facilitating an in-depth exploration of the climate and weather conditions within their targetted site.
+Introducing **WoodlandWeather**, an open-source software tailored to support field biologists and ecologists in their research endeavors. This tool is crafted with the goal of fostering a deeper understanding of the intricate connections between ecosystems and the dynamic atmospheric conditions that surround them. Users can easily input the geographic coordinates of their research sites, allowing WoodlandWeather to seamlessly access and retrieve the most recent and comprehensive climate data from the National Center of Environmental Information (NCEI), facilitating an in-depth exploration of the climate and weather conditions within their targetted site.
 
 WoodlandWeather simplifies the process of ecological research, enabling researchers to effortlessly examine, compare, and visualize long-term weather and climate patterns. This resource proves invaluable for a wide range of research areas, from the study of plant phenology and wildlife behavior to the assessment of forest resilience. Join a growing community of dedicated scientists and environmental enthusiasts as we embark on a collective journey to merge the beauty of the natural world with cutting-edge technology. 
 
