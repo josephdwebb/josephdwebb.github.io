@@ -24,10 +24,10 @@ As an Honors Undergraduate Researcher at the University of Vermont Wildlife Path
 
 | **Section**            | **Site**                                | **_# I. scapularis_** | **_# D. variabilis_** |
 |------------------------|-----------------------------------------|-----------------------|-----------------------|
-| Northern Vermont       | Centennial Woods, St. Michael's College | 82                    | 0                     |
+| Northern Vermont       | Centennial Woods, St. Michael's College | 212                   | 0                     |
 | Northern New Hampshire | Agnew State Forest                      | 1                     | 43                    |
 | Southern New Hampshire | Mountain Laurel Estates                 | 48                    | 265                   |
-| Northern Massachusetts | Ashburnham State Forest                 | 45                    | 38                    |
+| Northern Massachusetts | Ashburnham State Forest                 | 45                    | 68                    |
 {:.scroll-table}
 
 * * *
@@ -55,7 +55,7 @@ Embarking on survey expeditions around the White Mountains and the base of Mount
 A picture of myself checking my drag cloth for ticks.
 {:.figure}
 
-Serving as the sole surveyor for sites in Southern New Hampshire, I gathered  over 500 ticks — both [*Ixodes scapularis*](#definitions) and [*Dermacentor variabilis*](#definitions). These specimens have been diligently returned to the lab for analysis.
+Serving as the sole surveyor for sites in Southern New Hampshire, I gathered  over 300 ticks — both [*Ixodes scapularis*](#definitions) and [*Dermacentor variabilis*](#definitions). These specimens have been diligently returned to the lab for analysis.
 
 * * *
 
