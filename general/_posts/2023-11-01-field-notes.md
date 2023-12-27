@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Field Notes from the UVM Survey Team
-image: /assets/img/blog/fieldnotes1.png
+image: https://i.ibb.co/D76Rv6F/fieldnotes1.png
+
 accent_image: 
   background: url('/assets/img/blog/caleb-george.jpg') center/cover
   overlay: false
@@ -33,7 +34,7 @@ As an Honors Undergraduate Researcher at the University of Vermont Wildlife Path
 * * *
 
 ## Northern Vermont
-![FieldNotes2](/assets/img/blog/fieldnotes2.png "A picture of myself surveying along a trail head by Saint Michaels College."){:.lead width="800"}
+![FieldNotes2](https://i.ibb.co/18g40n2/fieldnotes2.png "A picture of myself surveying along a trail head by Saint Michaels College."){:.lead width="800"}
 A picture of myself surveying along a trail head by Saint Michael's College.
 {:.figure}
 
@@ -42,7 +43,7 @@ Being a part of the survey team was an enriching experience that took me to vari
 * * *
 
 ## Northern New Hampshire
-![FieldNotes3](/assets/img/blog/fieldnotes3.png "A beautiful picture of a river in Frankonia National Park, I captured during my drive north."){:.lead width="800"}
+![FieldNotes3](https://i.ibb.co/bgy3fkF/fieldnotes3.png "A beautiful picture of a river in Frankonia National Park, I captured during my drive north."){:.lead width="800"}
 A beautiful picture of a river in Frankonia National Park, I captured during my drive north.
 {:.figure}
 
@@ -51,7 +52,7 @@ Embarking on survey expeditions around the White Mountains and the base of Mount
 * * *
 
 ## Sourthern New Hampshire
-![FieldNotes4](/assets/img/blog/fieldnotes4.jpg "A picture of myself checking my drag cloth for ticks."){:.lead width="800"}
+![FieldNotes4](https://i.ibb.co/mBm2mm9/fieldnotes4.jpg "A picture of myself checking my drag cloth for ticks."){:.lead width="800"}
 A picture of myself checking my drag cloth for ticks.
 {:.figure}
 
@@ -60,7 +61,7 @@ Serving as the sole surveyor for sites in Southern New Hampshire, I gathered  ov
 * * *
 
 ## Northern Massachusetts
-![FieldNotes5](/assets/img/blog/fieldnotes5.png "A *Dermacentor variabilis* (dog tick) caught questing for passing animals."){:.lead width="800"}
+![FieldNotes5](https://i.ibb.co/8963Df5/fieldnotes5.png "A *Dermacentor variabilis* (dog tick) caught questing for passing animals."){:.lead width="800"}
 A *Dermacentor variabilis* (dog tick) caught questing for passing animals.
 {:.figure}
 
