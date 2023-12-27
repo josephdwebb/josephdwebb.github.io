@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to the Wildlife Pathogens Lab
-image: /assets/img/blog/wildlifepathogenslab.jpg
+image: https://i.ibb.co/3FpKN35/wildlifepath    ogenslab.jpg
 accent_image: 
   background: url('/assets/img/blog/caleb-george.jpg') center/cover
   overlay: false
@@ -23,7 +23,7 @@ Welcome to the Wildlife Pathogens Lab
 ## The Lab's Mission Statement
 The Wildlife Pathogens Lab, led by Dr. Ellen Martinsen, is dedicated to the exploration and understanding of wildlife pathogens and their impact on ecosystems. Through a multidisciplinary approach that combines fieldwork and laboratory research, its members engage in pathogen discovery, shedding light on novel species and genera in wild vertebrate and invertebrate vector hosts worldwide. 
   
-![Wildlife Pathogens Lab](/assets/img/blog/lab.png "A picture of the Wildlife Pathogens Lab."){:.lead width="800"}
+![Wildlife Pathogens Lab](https://i.ibb.co/xqnqzbf/lab.png "A picture of the Wildlife Pathogens Lab."){:.lead width="800"}
 A picture of the Wildlife Pathogens Lab.
 {:.figure}
 
