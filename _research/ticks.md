@@ -6,11 +6,11 @@ description: >
   Summarizing my work in UVM Honors Thesis Work.
 date: 1 April 2024
 image: 
-  path: /assets/img/projects/hydejack-site.jpg
+  path: /assets/img/TickCollecting.jpg
   srcset: 
-    1920w: /assets/img/projects/hydejack-site.jpg
-    960w:  /assets/img/projects/hydejack-site@0,5x.jpg
-    480w:  /assets/img/projects/hydejack-site@0,25x.jpg
+    1920w: /assets/img/TickCollecting.jpg
+    960w:  /assets/img/TickCollecting.jpg
+    480w:  /assets/img/TickCollecting.jpg
 links:
   - title: Link
     url: https://hydejack.com/
@@ -18,7 +18,9 @@ sitemap: false
 featured: false
 ---
 
-**Methods**
+The complete methhodology for my work can be found below. 
+
+# Methods
 We merged four types of data to conduct the regression analysis in this study: meteorological data from the National Oceanic and Atmospheric Administration (NOAA), ground-level observed PCR results of adult I. scapularis samples, annual state-level epidemiological data on Lyme disease, babesiosis, and anaplasmosis cases from the CDC, and climate projections from CHELSA. The CDC, NOAA, and CHELSEA databases are publicly available. 
 
 ## 1.1 Meteorological Data 
