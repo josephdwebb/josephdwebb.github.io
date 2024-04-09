@@ -1,8 +1,7 @@
 ---
 layout: post
 title: What makes a Tick Tick?
-caption: Evaluating the Impact of Climatic Factors on Tick-Borne Pathogen Prevalence - Insights from Ixodes scapularis and its Borrelia burgdorferi, Anaplasma phagocytophilum, and Babesia microti Pathogens
-
+caption: Evaluating the Impact of Climatic Factors on Tick-Borne Pathogen Prevalence
 description: >
   Summarizing my work in UVM Honors Thesis Work.
 date: 1 April 2024
@@ -16,13 +15,10 @@ links:
   - title: Link
     url: https://hydejack.com/
 sitemap: false
-featured: true
+featured: false
 ---
 
-* toc
-{:toc}
-
-# Methods
+**Methods**
 We merged four types of data to conduct the regression analysis in this study: meteorological data from the National Oceanic and Atmospheric Administration (NOAA), ground-level observed PCR results of adult I. scapularis samples, annual state-level epidemiological data on Lyme disease, babesiosis, and anaplasmosis cases from the CDC, and climate projections from CHELSA. The CDC, NOAA, and CHELSEA databases are publicly available. 
 
 ## 1.1 Meteorological Data 
