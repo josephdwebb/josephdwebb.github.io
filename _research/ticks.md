@@ -19,10 +19,6 @@ sitemap: false
 featured: true
 ---
 
-# What Makes a Tick Tick?
-
-> This work represents a portion of my Honors Thesis. Stay tuned for further updates!
-
 * toc
 {:toc}
 
