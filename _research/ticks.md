@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What makes a Tick Tick?
-caption: Evaluating the Impact of Climatic Factors on Tick-Borne Pathogen Prevalence - Insights from Ixodes scapularis and its Borrelia burgdorferi, Anaplasma phagocytophilum, and Babesia microti Pathogens
+caption: Evaluating the Impact of Climatic Factors on Tick-Borne Pathogen Prevalence - Insights from Ixodes scapularis and its Borrelia burgdorferi, Anaplasma phagocytophilum, and Babesia microti Pathogens
 
 description: >
   Summarizing my work in UVM Honors Thesis Work.
