@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Undergraduate Graduation
-image: https://ibb.co/Ptc3x8Q
-
+image: https://i.ibb.co/QXPz9Gd/Grad-1.jpg
 
 accent_image: 
   background: url('/assets/img/blog/caleb-george.jpg') center/cover
@@ -25,13 +24,13 @@ invert_sidebar: false
 
 Today marks a momentous milestone as I proudly graduate from the University of Vermont. Reflecting on the past few years, I am filled with gratitude for the experiences, challenges, and triumphs that have shaped my journey. From engaging in thought-provoking classes and participating in groundbreaking research to building lifelong friendships and forging connections with inspiring mentors, every moment has contributed to my growth.
 
-![Grad_2](https://ibb.co/5x0ytnj "A picture of myself with some friends prior to the graduation ceremony."){:.lead width="800"}
+![Grad_2](https://i.ibb.co/JF140yp/Grad-2.png "A picture of myself with some friends prior to the graduation ceremony."){:.lead width="800"}
 A picture of myself with Franny Oppenheimer (left) and Gian Cercena (middle) prior to the graduation ceremony.
 {:.figure}
 
 I extend heartfelt thanks to my professors, family, and friends for their unwavering support and encouragement. This achievement is not just mine but shared with all who have been part of this journey. As I step into the next chapter, I carry with me the knowledge, skills, and memories from UVM, ready to embrace new opportunities and make a positive impact in the world. Here's to the future and the adventures that await!
 
-![Grad_3](https://ibb.co/hYwMMfM "A picture of myself with some friends prior to the graduation ceremony."){:.lead width="800"}
+![Grad_3](https://i.ibb.co/XYM4484/Grad-3.png "A picture of myself with some friends prior to the graduation ceremony."){:.lead width="800"}
 A picture of myself with more friends moments prior to graduation.
 {:.figure}
 
