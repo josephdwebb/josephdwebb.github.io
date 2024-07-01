@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Undergraduate Graduation
-image: assets/img/blog/Grad_1.jpg
+image: /assets/img/blog/Grad_1.jpg
 
 accent_image: 
   background: url('/assets/img/blog/caleb-george.jpg') center/cover
@@ -30,7 +30,7 @@ A picture of myself with Franny Oppenheimer (left) and Gian Cercena (middle) pri
 
 I extend heartfelt thanks to my professors, family, and friends for their unwavering support and encouragement. This achievement is not just mine but shared with all who have been part of this journey. As I step into the next chapter, I carry with me the knowledge, skills, and memories from UVM, ready to embrace new opportunities and make a positive impact in the world. Here's to the future and the adventures that await!
 
-![Grad_3](assets/img/blog/Grad_3.png "A picture of myself with some friends prior to the graduation ceremony."){:.lead width="800"}
+![Grad_3](/assets/img/blog/Grad_3.png "A picture of myself with some friends prior to the graduation ceremony."){:.lead width="800"}
 A picture of myself with more friends moments prior to graduation.
 {:.figure}
 

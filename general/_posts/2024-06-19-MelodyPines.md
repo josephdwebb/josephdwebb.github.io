@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hot Summer at Melody Pines
-image: assets/img/blog/MelodyPines.png
+image: /assets/img/blog/MelodyPines.png
 
 accent_image: 
   background: url('/assets/img/blog/caleb-george.jpg') center/cover
@@ -13,7 +13,7 @@ description: >
 invert_sidebar: false
 ---
 
-# Undergraduate Graduation
+# Working at Melody Pines
 
 > "Is Joe Snow's ice going to be available today?" - Excited Camper
 
