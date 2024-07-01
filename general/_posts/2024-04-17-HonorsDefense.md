@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Honors Undergraduate Thesis Defense
-image: /assets/img/blog/Defense.png
+image: https://ibb.co/Pgh8pZd
 
 accent_image: 
   background: url('/assets/img/blog/caleb-george.jpg') center/cover

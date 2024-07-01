@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hot Summer at Melody Pines
-image: /assets/img/blog/MelodyPines.png
+image: https://ibb.co/YcJMKCF
 
 accent_image: 
   background: url('/assets/img/blog/caleb-george.jpg') center/cover
