@@ -25,15 +25,5 @@ I was deeply honored to be chosen as one of the five Guest Speakers for the Univ
 
 * * *
 
-## Definitions
-Ixodes scapularis
-: Black Legged Deer Tick
-
-Dermacentor variabilis
-: American Dog Tick
-
-Amblyomma americanum
-: Lone Star Tick
-
 
 *[SERP]: Search Engine Results Page
