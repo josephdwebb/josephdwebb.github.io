@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Guest Speaker for UVM College of Arts and Sciences
-image: https://ibb.co/G9pyLRr
+image: https://i.ibb.co/68wzxFq/Guest-Speaker.png
 
 accent_image: 
   background: url('/assets/img/blog/caleb-george.jpg') center/cover
