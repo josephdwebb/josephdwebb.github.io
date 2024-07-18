@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hot Summer at Melody Pines
-image: https://i.ibb.co/c6RHpBS/Screenshot-2024-07-01-at-2-57-31-PM.png
+image: https://i.ibb.co/LNL08Bn/Milli.png 
 
 accent_image: 
   background: url('/assets/img/blog/caleb-george.jpg') center/cover
@@ -36,7 +36,7 @@ Dispensing ice to the campers at my fantasy ice emporium.
 
 I am grateful to the Wildlife Encounters Ecology & Wellness Center for paying a visit to Melody Pines to educate the youth campers on local animals. I was honored to have been chosen to assist in the presentation and look forward to them returning in the future.
 
-![Milipede](https://i.ibb.co/LNL08Bn/Milli.png "Helping the campers experience the millipede up close."){:.lead width="800"}
+![SnakeHandler](https://i.ibb.co/hcVVBZ0/Snake-Handler.png"Holding a snake from the wildlife experience."){:.lead width="800"}
 Helping the campers experience the millipede up close.
 {:.figure}
 
