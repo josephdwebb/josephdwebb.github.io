@@ -39,7 +39,7 @@ work:
       I support a safe and healthy camp experience by adapting medical care to the unique challenges of a remote, outdoor setting.
     highlights:
       - "Provide comprehensive medical care to campers and staff, managing injuries, illnesses,
-          and emergent conditions in a remote camp setting"
+          and emergent conditions in a remote camp setting."
       - "Foster a welcoming healthcare environment by collaborating with camp staff to
           implement safety protocols, ensure continuity of care, and educate campers on injury
           prevention and wellness, promoting early positive healthcare experiences."
@@ -82,14 +82,14 @@ volunteer:
 education:
   - institution: "Boston University"
     area: "Medical Sciences"
-    studyType: "Masters"
+    studyType: "Master of Science"
     startDate: "2024-09-01"
     endDate: ""
     gpa: ""
 
   - institution: "University of Vermont"
     area: "Biology"
-    studyType: "Bachelor"
+    studyType: "Bachelor of Arts"
     startDate: "2020-08-01"
     endDate: "2024-05-01"
     gpa: ""
@@ -152,8 +152,9 @@ interests:
       - "Modern"
 
   - name: "Scuba Diving"
-    keywords: "Coral Reefs"
-    keywords: "Wreckage"
+    keywords: 
+    - "Coral Reefs"
+    - "Wreckage"
 
 # references:
 #  - name: "Erlich Bachman"
