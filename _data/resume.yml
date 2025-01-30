@@ -14,12 +14,12 @@ basics:
     research, and science education, with a focus on the intersection of health and the environment.
     Passionate about healthcare access and scientific inquiry, my aim to bridge research and real-world impact.
 
-   location:
-    address: "72 East Concord Street"
-    postalCode: "02118"
-    city: "Boston"
-    countryCode: "US"
-    region: "Massachusetts"
+#   location:
+#    address: "72 East Concord Street"
+#    postalCode: "02118"
+#    city: "Boston"
+#    countryCode: "US"
+#    region: "Massachusetts"
 
   profiles:
  #   - network: "Twitter"
@@ -57,14 +57,14 @@ work:
       - "Presented research findings at the UVM Student Research Conference."
       
 volunteer:
-  - organization: "Univeristy of Vermont"
+  - organization: "University of Vermont"
     position: "Undergraduate Teaching Assistant"
     website: ""
     startDate: "2021-01-01"
     endDate: "2024-05-01"
     summary: "
       Supported undergraduate students by leading lab sessions, reinforcing key concepts, and facilitating hands-on learning in biology and physics courses."
-      highlights:
+    highlights:
       - "Guided students through Mendelian genetics, PCR techniques, and taxonomic classification in weekly biology lab sessions."
       - "Assisted with independent field research on native bird feeding patterns, fostering student engagement in ecological studies."
       - " Guided a weekly session dedicated to evaluating fundamental communication technique across unique scenarios."
@@ -76,7 +76,7 @@ volunteer:
     endDate: "2024-05-01"
     summary: "
       Engaged in restorative meetings with youth offenders to explore accountability, empathy,
-      and the impact of their actions, while creating a safe, non-judgemental sppace for self-reflection."
+      and the impact of their actions, while creating a safe, non-judgemental space for self-reflection."
     # highlights:
 
 education:
@@ -105,9 +105,9 @@ education:
 #    summary: "A personal narrative that recount a pivotal moment during my scuba diving certification, where I witnessed a crisis that ignited my passion for pursuing a career in medicine."
 
 awards:
-  - title: "Patrick Leahy Honors College Scholar
+  - title: "Patrick Leahy Honors College Scholar"
     date: "2024-05-01"
-    awarder: "Universty of Vermont"
+    awarder: "University of Vermont"
     summary: "Signifies the successful completion of a rigorous interdisciplinary curriculum, an advanced undergraduate thesis, and a commitment to academic excellence and research."
 
 
@@ -118,7 +118,7 @@ skills:
       - "Pre-Hospital Care"
       - "EMT"
 
-  - name: "Laboratory Technnique"
+  - name: "Laboratory Technique"
     level: "Master"
     keywords:
       - "Identification"
@@ -152,9 +152,9 @@ interests:
       - "Modern"
 
   - name: "Scuba Diving"
-    keywords: 
-    - "Coral Reefs"
-    - "Wreckage"
+    keywords:
+      - "Coral Reefs"
+      - "Wreckage"
 
 # references:
 #  - name: "Erlich Bachman"
