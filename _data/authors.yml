@@ -8,10 +8,10 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Joseph D. Webb, a biology enthusiast and undergraduate researcher from the University of Vermont,
-    combines a strong interest in scientific exploration with a dedicated commitment to learning.
-    It is his hope that in documenting his journey, he may inspire others to seek out the beauty that 
-    is the natural world.
+    Hi there! My name is Joe and I an EMT and researcher with a background in public health, 
+    disease ecology, and emergency medicine. My work spans clinical care, tick-borne disease 
+    research, and science education, with a focus on the intersection of health and the environment.
+    Passionate about healthcare access and scientific inquiry, my aim to bridge research and real-world impact.
 
   # This photo will be used in the about section
   picture:

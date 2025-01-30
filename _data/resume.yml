@@ -3,24 +3,23 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Joseph Webb"
-  label: "Honors Undergraduate Researcher"
+  label: "Graduate Student and EMT"
   picture: "https://i.ibb.co/vxDMqnx/profile-256.jpg"
   email: "Josephwebb4@hotmail.com"
   phone: "(603) 854-2092"
   website: "https://www.josephdwebb.com"
   summary: >
-    Joseph D. Webb, a biology enthusiast and undergraduate researcher from the University of Vermont,
-    combines a strong interest in scientific exploration with a dedicated commitment to learning.
-    With a love for the outdoors, Joe conducts hands-on research on tick-borne pathogens and their connection to weather patterns.
-    Beyond the lab, he thrives in dynamic roles, serving as an EMT for his community and volunteering as a Youth Restorative Justice Advocate.
-    Joseph's diverse interests span from the intricacies of biology to the art of communication, making him a versatile and dedicated individual poised for impactful contributions.
+    Hi there! My name is Joe and I an EMT and researcher with a background in public health, 
+    disease ecology, and emergency medicine. My work spans clinical care, tick-borne disease 
+    research, and science education, with a focus on the intersection of health and the environment.
+    Passionate about healthcare access and scientific inquiry, my aim to bridge research and real-world impact.
 
-  # location:
-  #  address: "2712 Broadway St"
-  #  postalCode: "CA 94115"
-  #  city: "San Francisco"
-  #  countryCode: "US"
-  #  region: "California"
+   location:
+    address: "72 East Concord Street"
+    postalCode: "02118"
+    city: "Boston"
+    countryCode: "US"
+    region: "Massachusetts"
 
   profiles:
  #   - network: "Twitter"
@@ -31,84 +30,85 @@ basics:
       url: "https://www.linkedin.com/in/joseph-webb-134821299/"
 
 work:
+  - company: "Melody Pines Summer Camp"
+    position: "Emergency Medical Technican"
+    website: "https://www.canobie.com/"
+    startDate: "2024-05-01"
+    endDate: ""
+    summary: >
+      I support a safe and healthy camp experience by adapting medical care to the unique challenges of a remote, outdoor setting.
+    highlights:
+      - "Provide comprehensive medical care to campers and staff, managing injuries, illnesses,
+          and emergent conditions in a remote camp setting"
+      - "Foster a welcoming healthcare environment by collaborating with camp staff to
+          implement safety protocols, ensure continuity of care, and educate campers on injury
+          prevention and wellness, promoting early positive healthcare experiences."
+
   - company: "University of Vermont"
     position: "Undergraduate Student"
     website: "https://www.uvm.edu/"
     startDate: "2020-09-01"
-    endDate: ""
+    endDate: "2024-05-01"
     summary: >
-      As an ambitious member of the UVM Honors College, Joe is driven by an unwavering commitment to academic excellence. Pursuing a Bachelor of Arts in Biology with a minor in Chemistry, his academic journey has been characterized by a passionate exploration of the natural world. Currently, Joe is deeply engrossed in the intricate interplay between weather conditions and disease pathogen prevalence within tick populations.
+      As an Honors Undergraduate Researcher at UVM, I explored the intersection of ecology and public health, focusing on how weather patterns influence tick-borne disease prevalence. My academic journey in biology and chemistry deepened my passion for research, scientific communication, and mentoring fellow students.
     highlights:
-      - "Distinguished as an Honors Undergraduate Researcher at the UVM Wildlife Pathogens Lab."
-      - "Brings a passion for communication as a Teaching Assistant for Communication Methods."
-      - "Provided guidance and support to newly accepted students as an Honors College Peer Mentor."
+      - "Conducted independent research as an Honors Undergraduate Researcher at the UVM Wildlife Pathogens Lab."
+      - "Earned highest distinction for the defense of my undergraduate thesis."
+      - "Presented research findings at the UVM Student Research Conference."
       
-      
-
-  - company: "Canobie Lake Park"
-    position: "Emergency Medical Technican"
-    website: "https://www.canobie.com/"
-    startDate: "2021-05-01"
-    endDate: "2023-06-15"
-    summary: >
-      The primary medical respoonse team at Canobie Lake Park, playing a pivotal role in ensuring the safety and well-being of park visitors. Responsibilities included providing immediate medical assistance and coordinating emergency responses in high-pressure situations.
-    highlights:
-      - "Assumed a leadership role in orienting and training new members to the medical team."
-      - "Recognized for outstanding performance and dedication as Team Member of the Month."
-
 volunteer:
+  - organization: "Univeristy of Vermont"
+    position: "Undergraduate Teaching Assistant"
+    website: ""
+    startDate: "2021-01-01"
+    endDate: "2024-05-01"
+    summary: "
+      Supported undergraduate students by leading lab sessions, reinforcing key concepts, and facilitating hands-on learning in biology and physics courses."
+      highlights:
+      - "Guided students through Mendelian genetics, PCR techniques, and taxonomic classification in weekly biology lab sessions."
+      - "Assisted with independent field research on native bird feeding patterns, fostering student engagement in ecological studies."
+      - " Guided a weekly session dedicated to evaluating fundamental communication technique across unique scenarios."
+      
   - organization: "Burlington Community Justice Center"
     position: "Youth Restorative Justice Advocate"
     website: "https://www.burlingtoncjc.org/restorative-justice"
     startDate: "2022-11-01"
-    endDate: ""
+    endDate: "2024-05-01"
     summary: "
-      Actively working with victims, offenders, and the community to comprehend and tackle the consequences of crime and conflict, with a central goal of restoring relationships and ensuring that all those impacted have opportunities to engage in the healing and resolution journey."
+      Engaged in restorative meetings with youth offenders to explore accountability, empathy,
+      and the impact of their actions, while creating a safe, non-judgemental sppace for self-reflection."
     # highlights:
 
-  - organization: "UVM Department of Sociology"
-    position: "Student Attendant"
-    website: "https://www.uvm.edu/cas/sociology"
-    startDate: "2022-04-01"
-    endDate: ""
-    summary: "
-      Attending to UVM's Benedict House and assisting with students seeking professorial guidance."
-  
-  - organization: "UVM Physics Department"
-    position: "Student Tutor"
-    startDate: "2022-08-01"
-    endDate: "2023-05-01"
-    summary: "Helping students understand and excel in physics topics ranging from kinetics to relativity."
-
-  - organization: "UVM Honors College"
-    position: "Peer Mentor"
-    startDate: "2021-08-01"
-    endDate: "2022-05-01"
-    summary: "Guiding new students accepted to the UVM Honors College to excel physically, socially, and academically. "
-
 education:
+  - institution: "Boston University"
+    area: "Medical Sciences"
+    studyType: "Masters"
+    startDate: "2024-09-01"
+    endDate: ""
+    gpa: ""
+
   - institution: "University of Vermont"
     area: "Biology"
     studyType: "Bachelor"
     startDate: "2020-08-01"
     endDate: "2024-05-01"
-    gpa: "3.5"
+    gpa: ""
   # courses:
   #   - "DB1101 - Basic SQL"
   #   - "CS2011 - Java Introduction"
 
-publications:
-  - name: "To Witness an Underwater Emergency"
-    publisher: "Scuba Diving Magazine"
-    releaseDate: "2019-03-01"
-    # website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "A personal narrative that recount a pivotal moment during my scuba diving certification, where I witnessed a crisis that ignited my passion for pursuing a career in medicine."
+# publications:
+#  - name: "To Witness an Underwater Emergency"
+#    publisher: "Scuba Diving Magazine"
+#    releaseDate: "2019-03-01"
+#    # website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+#    summary: "A personal narrative that recount a pivotal moment during my scuba diving certification, where I witnessed a crisis that ignited my passion for pursuing a career in medicine."
 
-# awards:
-#  - title: "Digital Compression Pioneer Award"
-#    date: "2014-11-01"
-#    awarder: "Techcrunch"
-#    summary: "There is no spoon."
+awards:
+  - title: "Patrick Leahy Honors College Scholar
+    date: "2024-05-01"
+    awarder: "Universty of Vermont"
+    summary: "Signifies the successful completion of a rigorous interdisciplinary curriculum, an advanced undergraduate thesis, and a commitment to academic excellence and research."
 
 
 skills:
@@ -153,6 +153,7 @@ interests:
 
   - name: "Scuba Diving"
     keywords: "Coral Reefs"
+    keywords: "Wreckage"
 
 # references:
 #  - name: "Erlich Bachman"
