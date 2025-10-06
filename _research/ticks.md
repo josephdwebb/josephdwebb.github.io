@@ -7,10 +7,6 @@ description: >
 date: 1 April 2024
 image: 
   path: /assets/img/TickCollecting.jpg
-  srcset: 
-    1920w: /assets/img/TickCollecting.jpg
-    960w:  /assets/img/TickCollecting.jpg
-    480w:  /assets/img/TickCollecting.jpg
 links:
   - title: Link
     url: https://hydejack.com/
