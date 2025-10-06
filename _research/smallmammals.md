@@ -6,11 +6,11 @@ description: >
   Summarizing my work in Dr. Nicholas Gotelli's ecological lab.
 date: 21 April 2022
 image:
-  path: /assets/img/research/nenhc.jpg
+  path: /assets/img/projects/nenhc.jpg
   srcset:
-    1920w: /assets/img/research/nenhc.jpg
-    960w:  /assets/img/research/nenhc@0.5x.jpg
-    480w:  /assets/img/research/nenhc@0.25x.jpg
+    1920w: /assets/img/projects/nenhc.jpg
+    960w:  /assets/img/projects/nenhc@0.5x.jpg
+    480w:  /assets/img/projects/nenhc@0.25x.jpg
 links:
   - title: Link
     url: https://hydejack.com/
