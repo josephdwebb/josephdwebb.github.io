@@ -3,10 +3,10 @@ layout: post
 title: Volunteering with ESOL in Healthcare at the Elliot
 image: https://www.elliothospital.org/application/files/thumbnails/page_hero_image/2216/9834/0950/Elliot_Hospital_June_2023_FOR_WEB.jpg
 accent_image: 
-  background: url('/assets/img/blog/teaching-background.jpg') center/cover
+  background: url('/assets/img/blog/caleb-george.jpg') center/cover
   overlay: false
-accent_color: '#005EB8'
-theme_color: '#005EB8'
+accent_color: '#ccc'
+theme_color: '#ccc'
 description: >
   Teaching English and learning from immigrants pursuing healthcare careers through IINE at Elliot Hospital.
 invert_sidebar: false
