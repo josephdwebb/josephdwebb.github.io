@@ -6,11 +6,11 @@ description: >
   Ongoing Master's thesis research at Brigham and Women's Hospital Applied Chest Imaging Laboratory under Dr. Syed Moin Hassan.
 date: 6 October 2025
 image: 
-  path: /assets/img/projects/bwh-chest-imaging.jpg
+  path: /assets/img/projects/Masters.png
   srcset:
-    1920w: /assets/img/projects/bwh-chest-imaging.jpg
-    960w:  /assets/img/projects/bwh-chest-imaging@0.5x.jpg
-    480w:  /assets/img/projects/bwh-chest-imaging@0.25x.jpg
+    1920w: /assets/img/projects/Masters.png
+    960w:  /assets/img/projects/Masters@0.5x.png
+    480w:  /assets/img/projects/Masters@0.25x.png
 links:
   - title: Brigham and Women's Hospital
     url: https://www.brighamandwomens.org/

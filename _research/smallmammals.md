@@ -6,19 +6,17 @@ description: >
   Summarizing my work in Dr. Nicholas Gotelli's ecological lab.
 date: 21 April 2022
 image:
-  path: /assets/img/projects/TickCollecting.jpg
+  path: /assets/img/projects/nenhc.jpg
   srcset:
-    1920w: /assets/img/projects/TickCollecting.jpg
-    960w:  /assets/img/projects/TickCollecting@0.5x.jpg
-    480w:  /assets/img/projects/TickCollecting@0.25x.jpg
+    1920w: /assets/img/projects/nenhc.jpg
+    960w:  /assets/img/projects/nenhc@0.5x.jpg
+    480w:  /assets/img/projects/nenhc@0.25x.jpg
 links:
   - title: Link
     url: https://hydejack.com/
 sitemap: false
 featured: false
 ---
-
-## Purpose
 
 At the core of the intricate dynamics of ecological systems lies the complex interplay between different species of organisms, particularly small mammals and invertebrates, which can have far-reaching implications for the sustainability and resilience of ecosystems. The goal of this undergraduate research was to shed light on the nature of this interplay and provide insights into the factors that influence the dynamics of competition and interaction in various environmental conditions, particularly those of farmland and forest habitats.
 

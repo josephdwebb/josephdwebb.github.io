@@ -5,8 +5,12 @@ caption: Evaluating the Impact of Climatic Factors on Tick-Borne Pathogen Preval
 description: >
   Summarizing my work in UVM Honors Thesis Work.
 date: 1 April 2024
-image: 
-  path: /assets/img/TickCollecting.jpg
+image:
+  path: /assets/img/projects/TickCollecting.jpg
+  srcset:
+    1920w: /assets/img/projects/TickCollecting.jpg
+    960w:  /assets/img/projects/TickCollecting@0.5x.jpg
+    480w:  /assets/img/projects/TickCollecting@0.25x.jpg
 links:
   - title: Full Paper
     url: https://scholarworks.uvm.edu/hcoltheses/673/
