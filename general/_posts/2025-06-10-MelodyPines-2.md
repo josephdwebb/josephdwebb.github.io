@@ -23,10 +23,6 @@ invert_sidebar: false
 ## Why I'm Coming Back
 When I finished my first summer at Melody Pines Day Camp last year, I knew I had to come back. There's something special about a place that's been family-owned since 1951, where generations of kids have built forts, explored the woods, and made lifelong friends. As the camp nurse, I get to be part of that tradition—keeping everyone safe and healthy so they can focus on having the best summer ever.
 
-![Face Paint](https://i.imgur.com/BRHsCtH.png "A camper I face painted during Carnival Day with a tiger themed design."){:.lead width="800"}
-A camper I face painted during Carnival Day with a tiger themed design.
-{:.figure}
-
 Melody Pines serves kids ages 5-13, and every single day is spent outside doing something different. One minute I'm putting a band-aid on a skinned knee from fort building, the next I'm checking in on a camper with asthma before swim lessons, and then I'm teaching a group about staying hydrated on hot summer days. It's never boring, and that's exactly why I love it.
 
 ## What Being Camp Nurse Actually Looks Like

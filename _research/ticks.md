@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What makes a Tick Tick?
+title: What Makes a Tick Tick?
 caption: Evaluating the Impact of Climatic Factors on Tick-Borne Pathogen Prevalence
 description: >
   Summarizing my work in UVM Honors Thesis Work.
