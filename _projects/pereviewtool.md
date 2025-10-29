@@ -3,7 +3,7 @@ layout: project
 title: 'PE Review Tool'
 caption: A user-friendly desktop application for manually reviewing and validating AI predictions for pulmonary embolism detection.
 description: >
-  Development and implementation of an intuitive software solution for medical professionals to validate AI-driven PE detection in radiology reports.
+  Development of an intuitive software solution for professionals to validate AI-driven PE detection in radiology reports.
 date: '01-10-2025'
 image:
   path: https://i.imgur.com/vX18Q6t.png
