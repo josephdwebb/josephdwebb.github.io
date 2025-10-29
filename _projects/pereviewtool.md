@@ -6,11 +6,11 @@ description: >
   Development of an intuitive software solution for professionals to validate AI-driven PE detection in radiology reports.
 date: '01-10-2025'
 image:
-  path: https://i.imgur.com/vX18Q6t.png
+  path: assets/img/projects/PEReviewTool.png
   srcset:
-    1920w: https://i.imgur.com/vX18Q6t.png
-    960w:  https://i.imgur.com/vX18Q6t.png
-    480w:  https://i.imgur.com/vX18Q6t.png
+    1920w: /assets/img/projects/PEReviewTool.png
+    960w:  /assets/img/projects/PEReviewTool_960.png
+    480w:  /assets/img/projects/PEReviewTool_480.png
 links:
   - title: GitHub
     url: https://github.com/josephdwebb/PE-Review-Tool
